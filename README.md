@@ -2,8 +2,8 @@
 Desenvolvimento de projetos na mentoria 06/05
 
 Sobre o Git:
-- Controle de versionamento
-- 
+- Faz um controle de versionamento
+
 instalar o git
 
 inicia o gerenciamento de arquivos dentro da nossa pasta
