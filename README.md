@@ -1,25 +1,21 @@
 # ProjetoGama
 Desenvolvimento de projetos na mentoria 06/05
 
-Sobre o Git:
-- Faz um controle de versionamento
+Sobre as aulas de Git, aprendemos a:
 
-instalar o git
+instalar o git;
 
-inicia o gerenciamento de arquivos dentro da nossa pasta
-git init
+inicia o gerenciamento de arquivos dentro da nossa pasta, com o git init;
 
-permite verificar se você já selecionou algum arquivo
-git status
+como verificar se você já selecionou algum arquivo, git status;
 
-para selecionar um arquivo para subir na plataforma git
+como selecionar um arquivo para subir na plataforma git:
 git add "index.html"
 git status
 
-para subir vários arquivos dentro da nossa pasta parao
-github
+vimos também como subir vários arquivos dentro da nossa pasta parao com o github;
 
-git add.
-permite verificar quais foram os arquivos preparados para subir no github
+utilizar o:
+git add .
 
-git status
+e verificar quais foram os arquivos preparados para subir no github, com o git status
