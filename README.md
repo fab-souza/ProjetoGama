@@ -1,4 +1,8 @@
 # ProjetoGama
+
+![Badge tamanho](https://img.shields.io/github/languages/code-size/fab-souza/ProjetoGama)
+![Badge commit](https://img.shields.io/github/last-commit/fab-souza/ProjetoGama)
+
 Desenvolvimento de projetos na mentoria 06/05
 
 Sobre as aulas de Git, aprendemos a:
